@@ -245,4 +245,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support, email support@paychangu.com or visit our [support page](https://paychangu.com/support).
+For support, email developer@paychangu.com or visit our [support page](https://devs.paychangu.com/support).
